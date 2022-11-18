@@ -1,0 +1,56 @@
+header {
+  background-color: #1b9aaa;
+  padding: 60px;
+}
+body {
+  background-color: #f5f1e3;
+}
+h1 {
+  text-align: center;
+  color: #efe9f4;
+}
+h3 {
+  color: #5863f8;
+}
+footer {
+  background-color: #050505;
+  height: 200px;
+}
+table, tr, td {
+  border: 1px solid;
+}
+table {
+  border-collapse: collapse;
+}
+#Column1Row1 {
+  background-color: #fb9f89;
+}
+#Column1Row2 {
+  background-color: #c4af9a;
+}
+#Column1Row3 {
+  background-color: #81ae9d;
+}
+#Column1Row4 {
+  background-color: #21a179;
+}
+#Column3Row1 {
+  background-color: #ffe156;
+}
+#Column3Row2 {
+  background-color: #ffe9ce;
+}
+#Column3Row3 {
+  background-color: #ffb5c2;
+}
+#Column3Row4 {
+  background-color: #3777ff;
+}
+#Column2Row1 {}
+#Column2Row2 {}
+#Column2Row3 {}
+#Column2Row4 {}
+#Column4Row1 {}
+#Column4Row2 {}
+#Column4Row3 {}
+#Column4Row4 {}
