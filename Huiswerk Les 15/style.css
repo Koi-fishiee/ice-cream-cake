@@ -1,0 +1,89 @@
+body{
+  height: 100%
+}
+header{
+  color: white;
+  background-color: black;
+  padding: 5px;
+}
+footer{
+  color: white;
+  background-color: black;
+  height: 50px;
+  margin-top: 50px;
+}
+th{
+  border-width: thick;
+  background-color: black;
+  padding: 7px;
+}
+table{
+  padding: 5px;
+  margin: 5px 555px 5px 555px;
+  background-color: #d3d0cb;
+}
+#Cell1, #Cell2, #Cell3, #Cell4, #Cell5, #Cell6{
+  background-color: orange;
+}
+#index{
+  padding: 2px;
+  border-style: double;
+  border-color: #172a3a;
+  margin-left: 550px;
+}
+#mijncv{
+  padding: 2px;
+  border-style: double;
+  border-color: #172a3a;
+}
+#contact{
+  padding: 2px;
+  border-style: double;
+  border-color: #172a3a;
+  margin-right: 500px
+}
+a:link{
+  background-color: #fb9f89;
+  text-decoration: none
+}
+a:visited{
+  background-color: #c4af9a;
+  text-decoration: none
+}
+a:hover{
+  background-color: #508991;
+  text-decoration: none
+}
+a:active{
+  background-color: #172a3a;
+  text-decoration: none
+}
+.nav{
+
+}
+textarea, button, input{
+  display: block;
+  margin-top: 5px;
+  margin-right: 400px;
+  margin-bottom: 5px;
+  margin-left: 400px;
+  width: auto;
+  box-sizing: border-box;
+}
+button:active{
+  background-color: red;
+  color: white;
+}
+.text, .inleiding{
+  background-color: #d3d0cb;
+  margin: 5px 400px 5px 400px;
+}
+.image{
+  margin: 5px 500px 5px 500px;
+}
+h1{
+  margin-left: 525px;
+}
+h2{
+  margin-left: 627px;
+}
