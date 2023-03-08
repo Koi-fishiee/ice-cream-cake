@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Huiswerk Les 25, JavaScript & JQuery</title>
+      <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+      <script type="text/javascript">
+      $ (document).ready(function(){
+      $ ("#knop").click(function(){
+        var hi = $ ("#idtext").val();
+        window.alert ("hey hi hello! " + hi);
+      });
+      });
+      </script>
+  </head>
+  <body>
+    <form>
+     Hello?
+     <br><br><input type="text" id="idtext">
+     <br><br><input id="knop" name="knop" type="button" value="Klik hier!">
+   </form>
+    <noscript>
+      For this Website to work optimally, please activate JavaScript
+    </noscript>
+  </body>
+</html>
