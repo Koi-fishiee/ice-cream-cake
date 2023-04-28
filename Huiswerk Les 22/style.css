@@ -1,0 +1,29 @@
+header{
+ color: white;
+ background-color: #005d90;
+}
+footer{
+ height: 200px;
+ color: white;
+ background-color: #005d90;
+}
+body{
+
+}
+nav{
+ background-color: black;
+ color: white;
+}
+.col{
+  width: 30%;
+}
+.images{
+ height: auto;
+ width: 100%;
+}
+.button{
+
+}
+h2{
+ margin-left: 627px;
+}
